@@ -1,6 +1,6 @@
 {% set name = "lotus2" %}
-{% set version = "2.25" %}
-{% set sha256 = "11a158691b1973c0aa100dbc836544bbda19489cec6bf36fee31b05c94449488" %}
+{% set version = "2.26" %}
+{% set sha256 = "814c1c69b544c88b5b6f187c96645cf130d0e4d5b250fd54815c43429835887f" %}
 
 package:
   name: {{ name }}

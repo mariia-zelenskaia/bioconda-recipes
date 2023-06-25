@@ -35,7 +35,7 @@ requirements:
     - r-dplyr
     - rdp_classifier
     - rtk
-    - sdm ==2.06
+    - sdm ==2.09
     - swarm
     - unzip
     - vsearch
